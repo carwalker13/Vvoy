@@ -1426,9 +1426,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
   .landing-page .wrapper{
     text-align: center;
   }
-  .landing-page .navbar-top{
-    background: rgba(0, 0, 0, 0.75);
-  }
+  
+  
   .landing-page .parallax {
     height: 550px;
   }
